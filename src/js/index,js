@@ -4,7 +4,7 @@
   let cartaoAtual = 0;
 
    const btnAvancar = document.getElementById("btn -avancar");
-   btnAvancar.addEventListener("click", function (){
+   btnAvancar.addEventListener("click", function ()
    //if(cartaoAtual === cartoes.length - 1) {
     return;
    
@@ -15,7 +15,7 @@
 
     });
            
-  btnVoltar.addEventListener("click", function (){
+  btnVoltar.addEventListener("click", function )
    if(cartaoAtual === 0) return;
    
    esconderCataoSelecioando();
